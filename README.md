@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shriram 👋
 
+🎓 CSE Student (AI/ML)  
+💻 Interested in Data Engineering & Machine Learning  
+
+## Skills
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+
+## Projects
+- ETL Data Pipeline
+- Data Analysis using Pandas
+
+## Contact
+📧 shrir7952@gmail.com
 <!--
 **ramshri-oss/ramshri-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
