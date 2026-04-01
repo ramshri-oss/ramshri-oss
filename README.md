@@ -1,7 +1,6 @@
 # Hi, I'm Shriram 👋
 
-🎓 CSE Student (AI/ML)  
-💻 Interested in Data Engineering & Machine Learning  
+🎓 CSE Student (AI/ML)   
 
 ## Skills
 - Python
